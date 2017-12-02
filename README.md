@@ -10,3 +10,17 @@ Cause i delete my FireBase url, u only have to follow the tuto to make it work
 
 # Guide steps
 It is a overview guide to make it work
+
+# STEP 1-2
+
+![delalama](https://github.com/delalama/AngularFirebaseMachine/blob/master/assets/steps/step%201-2.png?raw=true)
+
+
+
+![delalama](https://github.com/delalama/AngularFirebaseMachine/blob/master/assets/steps/step3.png?raw=true)
+
+![delalama](https://github.com/delalama/AngularFirebaseMachine/blob/master/assets/steps/step4-5.png?raw=true)
+
+![delalama](https://github.com/delalama/AngularFirebaseMachine/blob/master/assets/steps/step5-6.png?raw=true)
+
+![delalama](https://github.com/delalama/AngularFirebaseMachine/blob/master/assets/steps/step7-8.png?raw=true)
