@@ -29,4 +29,4 @@ It is a overview guide to make it work
 
 # STEP 9-10
 
-![delalama](https://github.com/delalama/AngularFirebaseMachine/blob/master/assets/steps/step7-8.png?raw=true)
+![delalama](https://github.com/delalama/AngularFirebaseMachine/blob/master/assets/steps/step9-10.png?raw=true)
