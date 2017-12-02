@@ -1,0 +1,32 @@
+.example-form {
+  min-width: 150px;
+  max-width: 600px;
+  width: 100%;
+  display: inline;
+}
+
+.example-full-width {
+  width: 100%;
+}
+mat-chip {
+  width: 600px;
+  margin-bottom: 4em;
+  text-align: center;
+  vertical-align: middle;
+  padding: 2em;
+}
+
+button{
+}
+
+/*mat-list-item #retrieves {*/
+  /*height: 300px;*/
+  /*position: relative;*/
+  /*max-width: 200px;*/
+  /*color: red;*/
+/*}*/
+
+mat-list{
+  width: 500px;
+  margin-top: 0em;
+}

@@ -1,0 +1,61 @@
+
+<div class="container">
+  <div class="row">
+    <div class="jumbotron">
+      <h1>THIS IS OUR BEAUTIFUL MACHINE</h1>
+      <p>It let us send data to a FireBase db and even retrieve it</p>
+      <hr>
+
+      <p>
+        Instead of pushing the data by post i use put in the service
+      </p>
+      <p>  You can insert strings one by one and then retrieve all
+      </p>
+
+    </div>
+  </div>
+</div>
+<div class="container" style="margin-top: 6em; margin-bottom: 6em">
+
+    <mat-list class="col-md-6">
+
+      <mat-list-item>
+        <mat-chip color="primary" selected="true" style="font-size: 1.2em">DATOS QUE MANDAMOS A FIREBASE</mat-chip>
+      </mat-list-item>
+
+      <mat-list-item>
+        <mat-form-field>
+          <input matInput placeholder="Dato" #inputValue>
+        </mat-form-field>
+      </mat-list-item>
+
+      <mat-list-item>
+        <button mat-raised-button color="warn" (click)="onSendData( inputValue.value )">SEND</button>
+      </mat-list-item>
+      <mat-list-item>
+        <button mat-raised-button color="warn" (click)="onRetrieveData()">RETRIEVE</button>
+      </mat-list-item>
+
+    </mat-list>
+
+    <mat-list class="col-md-6">
+
+      <mat-list-item>
+        <mat-chip color="primary" selected="true" style="font-size: 1.2em">DATOS QUE RECIBIMOS DE FIREBASE</mat-chip>
+      </mat-list-item>
+
+        <div class="container-fluid">
+          <mat-list id="retrieves" >
+            <mat-list-item *ngFor="let d of receivedData" style="border-bottom: dashed">{{d.data}}</mat-list-item>
+
+          </mat-list>
+        </div>
+
+        <!--<p  *ngFor="let d of receivedData">&nbsp;{{d.data}}&nbsp;</p>-->
+
+
+
+
+    </mat-list>
+
+</div>
