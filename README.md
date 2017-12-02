@@ -15,12 +15,18 @@ It is a overview guide to make it work
 
 ![delalama](https://github.com/delalama/AngularFirebaseMachine/blob/master/assets/steps/step%201-2.png?raw=true)
 
-
+# STEP 3-4
 
 ![delalama](https://github.com/delalama/AngularFirebaseMachine/blob/master/assets/steps/step3.png?raw=true)
 
+# STEP 5-6
+
 ![delalama](https://github.com/delalama/AngularFirebaseMachine/blob/master/assets/steps/step4-5.png?raw=true)
 
+# STEP 7-8
+
 ![delalama](https://github.com/delalama/AngularFirebaseMachine/blob/master/assets/steps/step5-6.png?raw=true)
+
+# STEP 9-10
 
 ![delalama](https://github.com/delalama/AngularFirebaseMachine/blob/master/assets/steps/step7-8.png?raw=true)
