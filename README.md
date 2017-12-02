@@ -25,7 +25,7 @@ It is a overview guide to make it work
 
 # STEP 7-8
 
-![delalama](https://github.com/delalama/AngularFirebaseMachine/blob/master/assets/steps/step5-6.png?raw=true)
+![delalama](https://github.com/delalama/AngularFirebaseMachine/blob/master/assets/steps/step7-8.png?raw=true)
 
 # STEP 9-10
 
