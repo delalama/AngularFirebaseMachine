@@ -1,4 +1,4 @@
- ![delalama](https://github.com/delalama/AngularFirebaseMachine/blob/master/assets/firebase1.png?raw=true) 
+ ![delalama](https://github.com/delalama/AngularFirebaseMachine/blob/master/assets/firebase10.png?raw=true) 
 # AngularFirebaseMachine
 Angular 2 app to put and get data to/from a firebase db explanation
 # How to use it?
