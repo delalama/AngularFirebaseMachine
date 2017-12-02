@@ -1,3 +1,4 @@
+![Fn Project](http://fnproject.io/images/fn-300x125.png)
 # AngularFirebaseMachine
 Angular 2 app to put and get data to/from a firebase db explanation
 # How to use it?
