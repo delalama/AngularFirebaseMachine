@@ -1,4 +1,4 @@
- AngularFirebaseMachine/assets/firebase1.png 
+ ![delalama](AngularFirebaseMachine/assets/firebase1.png) 
 # AngularFirebaseMachine
 Angular 2 app to put and get data to/from a firebase db explanation
 # How to use it?
